@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+*.sln
+*.sw?
+
+.env
