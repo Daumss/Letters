@@ -212,7 +212,7 @@ export default function LoginPage() {
               <div style={{ position: 'relative', marginBottom: '10px' }}>
                 <input
                   type="text"
-                  placeholder="학교명"
+                  placeholder="기관/학교명"
                   value={schoolName}
                   onChange={handleSchoolChange}
                   style={{ width: '100%', boxSizing: 'border-box', padding: '8px' }}
